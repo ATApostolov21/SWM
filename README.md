@@ -29,18 +29,18 @@
 <h2>📃Documents</h2>
 <h3>Documentation</h3>
 <ul>
-<li><a href="#" download>Documentation</a></li>
+<li><a href="Documents/SWM_JhonAtanasov.docx" download>Documentation</a></li>
 </ul>
 <h3>Presentation</h3>
 <ul>
-<li><a href="#" download>Presentation</a></li>
+<li><a href="../SWM/Documents/SWM_JhonAtanasov.pptx" download>Presentation</a></li>
 </ul>
 <hr>
 <h2>🖥️Technologies</h2>
 <h3> Code editors and collaborative services used:</h3>
 <p align = "left">
     <a href="https://code.visualstudio.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" alt="VS code logo" width = 40px /></a>
-    <a href="https://github.com/"><img src="https://joshuapenalba.files.wordpress.com/2014/12/github-icon.png" alt="GitHub logo" width = 55px/></a>
+    <a href="https://github.com/"><img src="https://iconmonstr.com/wp-content/g/gd/makefg.php?i=../releases/preview/2012/png/iconmonstr-github-1.png&r=0&g=0&b=0" alt="GitHub logo" width = 45px/></a>
     <a href = "https://git-scm.com/"><img src = "https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" alt = "Git logo" width = 42px></a>
     </p>
 <h3>Programming languages and third party libraries:</h3>
