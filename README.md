@@ -1,6 +1,6 @@
 <h1 align="center">SWM</h1>
 <p align = "center">
-<img src = "../SWM/Assets/logo.png" align = "center" width = 50%>
+<img src = "Assets/logo.png" align = "center" width = 50%>
 </p>
 <hr>
 <h2>📰About</h2>
@@ -14,8 +14,8 @@
 </ul>
 <hr>
 <h2>📷Screenshots</h2>
-<p align = "center"><img src = "../SWM/Assets/Screenshots/blynk1.png" alt = "closed bin" width = 80%>
-<img src = "../SWM/Assets/Screenshots/blynk2.png" alt = "opened bin" width = 80%>
+<p align = "center"><img src = "Assets/Screenshots/blynk1.png" alt = "closed bin" width = 80%>
+<img src = "Assets/Screenshots/blynk2.png" alt = "opened bin" width = 80%>
 </p>
 <hr>
 <h2>📥Installation</h2>
