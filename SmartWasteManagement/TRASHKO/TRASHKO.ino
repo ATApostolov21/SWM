@@ -4,11 +4,6 @@
 #define BLYNK_TEMPLATE_NAME "SWM"
 #define BLYNK_AUTH_TOKEN "5RMoDbAKRPdB4FG_FIJfmWow5RKWsJFG"
 
-//This code is for the other template called "Smart Waste"
-//#define BLYNK_TEMPLATE_ID "TMPL4GpGMojLT"
-//#define BLYNK_TEMPLATE_NAME "Smart Waste"
-//#define BLYNK_AUTH_TOKEN "zy4ARrY0muysKQxdcz29xFA1EazL0ZNQ"
-
 #include <Servo.h>
 #include <BlynkSimpleEsp8266.h>
 #include <ESP8266WiFi.h>

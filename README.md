@@ -3,23 +3,22 @@
 <img src = "Assets/logo.png" align = "center" width = 50%>
 </p>
 <hr>
-<h2>📰About</h2>
+<h2>📰 About</h2>
 <p align = "center">Our Smart Waste Management bin utilizes sensors and IoT technology to monitor fill levels in real-time. Once reaching capacity, it automatically notifies the waste management system, optimizing collection routes and reducing environmental impact. This data-driven approach enhances efficiency, minimizes carbon emissions, and promotes cost-effective waste management. Embrace a greener solution for a cleaner planet with our Smart Waste Management bin.
 </p>
 <hr>
-<h2 align = "left">🧒Our team</h2>
+<h2 align = "left">🧒 Our team</h2>
 <ul>
 <li><a href = "https://github.com/ATApostolov21"> Atanas Apostolov </a> [Front-end developer]
 </li>
 <li><a href = "https://github.com/IDDochev21"> Ivan Dochev </a> [Back-end developer]</li>
 </ul>
 <hr>
-<h2>📷Screenshots</h2>
-<p align = "center"><img src = "Assets/Screenshots/blynk1.png" alt = "closed bin" width = 80%>
-<img src = "Assets/Screenshots/blynk2.png" alt = "opened bin" width = 80%>
+<h2>📷 Screenshots</h2>
+<p align = "center"><img src = "Assets/Screenshots/blynk_demo_opened.png" alt = "closed bin" width = 100%>
 </p>
 <hr>
-<h2>📥Installation</h2>
+<h2>📥 Installation</h2>
 <p>1.Open a terminal on you local machine and clone the repository by the link bellow.</p>
 <pre>https://github.com/ATApostolov21/SWM.git</pre>
 <p>2.Open <a href = "https://blynk.io/" > blynk.io </a> and select <b>TRASHKO</b> as your project.</p> 
@@ -37,7 +36,7 @@
 <li><a href="../SWM/Documents/SWM_JhonAtanasov.pptx" download>Presentation</a></li>
 </ul>
 <hr>
-<h2>🖥️Technologies</h2>
+<h2>🖥️ Technologies</h2>
 <h3> Code editors and collaborative services used:</h3>
 <p align = "left">
     <a href="https://code.visualstudio.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" alt="VS code logo" width = 40px /></a>
