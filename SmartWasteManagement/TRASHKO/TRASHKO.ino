@@ -1,7 +1,13 @@
 #define BLYNK_PRINT Serial
-#define BLYNK_TEMPLATE_ID "TMPL4GpGMojLT"
-#define BLYNK_TEMPLATE_NAME "Smart Waste"
-#define BLYNK_AUTH_TOKEN "zy4ARrY0muysKQxdcz29xFA1EazL0ZNQ"
+
+#define BLYNK_TEMPLATE_ID "TMPL4XiEPhmiZ"
+#define BLYNK_TEMPLATE_NAME "SWM"
+#define BLYNK_AUTH_TOKEN "5RMoDbAKRPdB4FG_FIJfmWow5RKWsJFG"
+
+//This code is for the other template called "Smart Waste"
+//#define BLYNK_TEMPLATE_ID "TMPL4GpGMojLT"
+//#define BLYNK_TEMPLATE_NAME "Smart Waste"
+//#define BLYNK_AUTH_TOKEN "zy4ARrY0muysKQxdcz29xFA1EazL0ZNQ"
 
 #include <Servo.h>
 #include <BlynkSimpleEsp8266.h>
@@ -56,8 +62,6 @@ BLYNK_WRITE(V1){
   {
     servo.write(180);
     Blynk.virtualWrite(V1, 180);
-    
-
   }
   else{
     servo.write(0);

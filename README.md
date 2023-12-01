@@ -4,7 +4,8 @@
 </p>
 <hr>
 <h2>📰About</h2>
-<p align = "center"><b>neshto</b></p>
+<p align = "center">Our Smart Waste Management bin utilizes sensors and IoT technology to monitor fill levels in real-time. Once reaching capacity, it automatically notifies the waste management system, optimizing collection routes and reducing environmental impact. This data-driven approach enhances efficiency, minimizes carbon emissions, and promotes cost-effective waste management. Embrace a greener solution for a cleaner planet with our Smart Waste Management bin.
+</p>
 <hr>
 <h2 align = "left">🧒Our team</h2>
 <ul>
